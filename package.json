@@ -1,0 +1,25 @@
+{
+  "name": "chatgpt-bot",
+  "version": "1.0.0",
+  "description": "discord bot that uses the openAI bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skanderzoghlami/ChatGPT-Discord-Bot.git"
+  },
+  "keywords": [
+    "Discord"
+  ],
+  "author": "Skander Zg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skanderzoghlami/ChatGPT-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/skanderzoghlami/ChatGPT-Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
