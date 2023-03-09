@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/skanderzoghlami/ChatGPT-Discord-Bot#readme",
   "dependencies": {
-    "discord.js": "^14.7.1"
+    "@tectalic/openai": "^0.2.1",
+    "discord.js": "^14.7.1",
+    "openai": "^3.2.1"
   }
 }
